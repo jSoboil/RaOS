@@ -1,4 +1,4 @@
-# RaOS
+# Regression and Other Stories
 
 <img src="img/ROS_frontcover.png" align="right" />
 
